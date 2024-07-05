@@ -1,0 +1,14 @@
+C:\Users\ninag\RiderProjects\printingtriangle\printingtriangle\bin\Debug\net8.0\printingtriangle.exe
+C:\Users\ninag\RiderProjects\printingtriangle\printingtriangle\bin\Debug\net8.0\printingtriangle.deps.json
+C:\Users\ninag\RiderProjects\printingtriangle\printingtriangle\bin\Debug\net8.0\printingtriangle.runtimeconfig.json
+C:\Users\ninag\RiderProjects\printingtriangle\printingtriangle\bin\Debug\net8.0\printingtriangle.dll
+C:\Users\ninag\RiderProjects\printingtriangle\printingtriangle\bin\Debug\net8.0\printingtriangle.pdb
+C:\Users\ninag\RiderProjects\printingtriangle\printingtriangle\obj\Debug\net8.0\printingtriangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ninag\RiderProjects\printingtriangle\printingtriangle\obj\Debug\net8.0\printingtriangle.AssemblyInfoInputs.cache
+C:\Users\ninag\RiderProjects\printingtriangle\printingtriangle\obj\Debug\net8.0\printingtriangle.AssemblyInfo.cs
+C:\Users\ninag\RiderProjects\printingtriangle\printingtriangle\obj\Debug\net8.0\printingtriangle.csproj.CoreCompileInputs.cache
+C:\Users\ninag\RiderProjects\printingtriangle\printingtriangle\obj\Debug\net8.0\printingtriangle.dll
+C:\Users\ninag\RiderProjects\printingtriangle\printingtriangle\obj\Debug\net8.0\refint\printingtriangle.dll
+C:\Users\ninag\RiderProjects\printingtriangle\printingtriangle\obj\Debug\net8.0\printingtriangle.pdb
+C:\Users\ninag\RiderProjects\printingtriangle\printingtriangle\obj\Debug\net8.0\printingtriangle.genruntimeconfig.cache
+C:\Users\ninag\RiderProjects\printingtriangle\printingtriangle\obj\Debug\net8.0\ref\printingtriangle.dll
